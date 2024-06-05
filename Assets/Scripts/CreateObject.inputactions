@@ -1,0 +1,34 @@
+{
+    "name": "CreateObject",
+    "maps": [
+        {
+            "name": "ControlsObject",
+            "id": "3ab1bdaa-331a-44e3-ab42-8c580e834cd0",
+            "actions": [
+                {
+                    "name": "Create",
+                    "type": "Button",
+                    "id": "ff3c5488-d0f2-46be-ac34-6ce3de23c57a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "634254b6-dbe3-4337-81a6-883a8e6e44fe",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Create",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
